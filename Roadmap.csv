@@ -1,0 +1,654 @@
+Phase,Focus Area,Task,Type,Resource / Paper,Status
+P1 Java Core,Java runtime & OOP foundations,"JVM/JRE/JDK, bytecode, how Java runs",Learn,Effective Java (Bloch),TRUE
+P1 Java Core,Java runtime & OOP foundations,"Set up JDK + build tool (Maven/Gradle), Hello World",Build,Effective Java (Bloch),TRUE
+P1 Java Core,Java runtime & OOP foundations,Read: Effective Java (Bloch) + take notes,Flex,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Memory areas: heap, stack, metaspace, class loading",Learn,Effective Java (Bloch),TRUE
+P1 Java Core,Java runtime & OOP foundations,Model a Library domain with classes & interfaces,Build,Effective Java (Bloch),TRUE
+P1 Java Core,Java runtime & OOP foundations,Solve 2-3 exercises on JVM & OOP,Flex,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Plan & design: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Build: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Build (cont.): CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Test & refactor: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,"Document & review: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,Study: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,Practice/apply: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch),FALSE
+P1 Java Core,Java runtime & OOP foundations,Research paper: On Designing and Deploying Internet-Scale Services (J. Hamilton),Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),FALSE
+P1 Java Core,Java runtime & OOP foundations,Paper notes (summary + 3 takeaways) + plan next week,Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),FALSE
+P1 Java Core,Collections & Generics,List/Set/Map internals & when to use each,Learn,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Benchmark ArrayList vs LinkedList operations,Build,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Read: Effective Java (Bloch) + Java docs + take notes,Flex,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,"ArrayList vs LinkedList; HashMap internals (buckets, resize, treeify)",Learn,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Implement your own dynamic array,Build,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Solve 2-3 exercises on Collections,Flex,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,TreeMap/LinkedHashMap; iteration order,Learn,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Implement a simplified HashMap,Build,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Review previous day's build; refactor weak spots,Flex,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,"Generics, bounded types, wildcards (PECS)",Learn,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Sort objects with custom comparators,Build,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Make Anki cards for Collections concepts,Flex,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Comparable vs Comparator,Learn,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Write a generic container class,Build,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Gap-fill: revisit your weakest Collections topic,Flex,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Plan & design: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Build: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Build (cont.): Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Test & refactor: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Document & review: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Study: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Practice/apply: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch) + Java docs,FALSE
+P1 Java Core,Collections & Generics,Research paper: The Google File System (Ghemawat et al.),Paper,The Google File System (Ghemawat et al.),FALSE
+P1 Java Core,Collections & Generics,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Google File System (Ghemawat et al.),FALSE
+P1 Java Core,Concurrency & Multithreading I,"Threads, Runnable, thread lifecycle",Learn,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Create & coordinate threads,Build,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Read: Java Concurrency in Practice (ch.1-4) + take notes,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,"synchronized, intrinsic locks, monitor",Learn,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Producer-consumer with wait/notify,Build,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Solve 2-3 exercises on Concurrency,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,"volatile, visibility, happens-before",Learn,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Reproduce then fix a race condition,Build,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Review previous day's build; refactor weak spots,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Race conditions & how they arise,Learn,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Fix an unsafe class with synchronization,Build,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Make Anki cards for Concurrency concepts,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Deadlock: causes & prevention,Learn,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,"Reproduce a deadlock, then resolve it",Build,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Gap-fill: revisit your weakest Concurrency topic,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Plan & design: Thread-safe bounded blocking queue from scratch + concurrency tests,Project,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Build: Thread-safe bounded blocking queue from scratch + concurrency tests,Project,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Build (cont.): Thread-safe bounded blocking queue from scratch + concurrency tests,Project,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Test & refactor: Thread-safe bounded blocking queue from scratch + concurrency tests,Project,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Document & review: Thread-safe bounded blocking queue from scratch + concurrency tests,Project,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,"Study: Java Memory Model deep dive (happens-before, reordering)",Design/Theory,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,"Practice/apply: Java Memory Model deep dive (happens-before, reordering)",Design/Theory,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Weekly review + spaced repetition (Anki); fix gaps,Review,Java Concurrency in Practice (ch.1-4),FALSE
+P1 Java Core,Concurrency & Multithreading I,Research paper: MapReduce: Simplified Data Processing on Large Clusters,Paper,MapReduce: Simplified Data Processing on Large Clusters,FALSE
+P1 Java Core,Concurrency & Multithreading I,Paper notes (summary + 3 takeaways) + plan next week,Paper,MapReduce: Simplified Data Processing on Large Clusters,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,ExecutorService & thread pool tuning,Learn,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Run tasks on a tuned thread pool,Build,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Read: Java Concurrency in Practice + Java docs + take notes,Flex,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Future & CompletableFuture (async composition),Learn,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Async pipeline with CompletableFuture,Build,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Solve 2-3 exercises on Executors & Streams,Flex,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Concurrent collections (ConcurrentHashMap),Learn,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Use ConcurrentHashMap safely,Build,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Review previous day's build; refactor weak spots,Flex,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Lambdas & functional interfaces,Learn,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Refactor loops into stream pipelines,Build,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Make Anki cards for Executors & Streams concepts,Flex,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Streams API & collectors,Learn,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Write a custom collector,Build,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Gap-fill: revisit your weakest Executors & Streams topic,Flex,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Plan & design: Parallel word/log-count processor using ExecutorService + streams,Project,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Build: Parallel word/log-count processor using ExecutorService + streams,Project,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Build (cont.): Parallel word/log-count processor using ExecutorService + streams,Project,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Test & refactor: Parallel word/log-count processor using ExecutorService + streams,Project,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Document & review: Parallel word/log-count processor using ExecutorService + streams,Project,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Study: Java core consolidation + timed self-test,Design/Theory,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Practice/apply: Java core consolidation + timed self-test,Design/Theory,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Weekly review + spaced repetition (Anki); fix gaps,Review,Java Concurrency in Practice + Java docs,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Research paper: Dynamo: Amazon's Highly Available Key-value Store,Paper,Dynamo: Amazon's Highly Available Key-value Store,FALSE
+P1 Java Core,Concurrency II + Streams/Functional,Paper notes (summary + 3 takeaways) + plan next week,Paper,Dynamo: Amazon's Highly Available Key-value Store,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations","HTTP methods, status codes, headers",Learn,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Inspect real HTTP traffic with curl,Build,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Read: Fielding REST dissertation (ch.5) + HTTP spec + take notes,Flex,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",REST principles & Richardson Maturity Model,Learn,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Design a REST resource model,Build,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Solve 2-3 exercises on HTTP & REST,Flex,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Statelessness & idempotency,Learn,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Write an OpenAPI contract,Build,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Review previous day's build; refactor weak spots,Flex,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Content negotiation & media types,Learn,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Design consistent error responses,Build,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Make Anki cards for HTTP & REST concepts,Flex,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",API versioning strategies,Learn,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Mock endpoints to validate the contract,Build,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Gap-fill: revisit your weakest HTTP & REST topic,Flex,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Plan & design: Design a full REST API for a bookstore (OpenAPI spec + rationale doc),Project,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Build: Design a full REST API for a bookstore (OpenAPI spec + rationale doc),Project,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Build (cont.): Design a full REST API for a bookstore (OpenAPI spec + rationale doc),Project,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Test & refactor: Design a full REST API for a bookstore (OpenAPI spec + rationale doc),Project,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Document & review: Design a full REST API for a bookstore (OpenAPI spec + rationale doc),Project,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations","Study: Networking basics: TCP/IP, TLS handshake, DNS",Design/Theory,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations","Practice/apply: Networking basics: TCP/IP, TLS handshake, DNS",Design/Theory,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Weekly review + spaced repetition (Anki); fix gaps,Review,Fielding REST dissertation (ch.5) + HTTP spec,FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations","Research paper: Architectural Styles and the Design of Network-based Software (Fielding, ch.5)",Paper,"Architectural Styles and the Design of Network-based Software (Fielding, ch.5)",FALSE
+P2 Backend Fundamentals,"HTTP, REST & Web foundations",Paper notes (summary + 3 takeaways) + plan next week,Paper,"Architectural Styles and the Design of Network-based Software (Fielding, ch.5)",FALSE
+P2 Backend Fundamentals,Spring Core & Boot,IoC & Dependency Injection,Learn,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Bootstrap a Spring Boot app,Build,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Read: Spring Framework & Boot docs + take notes,Flex,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Bean lifecycle & scopes,Learn,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Define & inject beans across layers,Build,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Solve 2-3 exercises on Spring Boot,Flex,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Configuration: annotations vs Java config,Learn,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Configure dev/prod profiles,Build,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Review previous day's build; refactor weak spots,Flex,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Spring Boot autoconfiguration,Learn,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Expose a health endpoint,Build,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Make Anki cards for Spring Boot concepts,Flex,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Profiles & externalized properties,Learn,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Structure controller/service/repository layers,Build,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Gap-fill: revisit your weakest Spring Boot topic,Flex,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,"Plan & design: Build the bookstore REST API in Spring Boot (controllers, services, DTOs, validation)",Project,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,"Build: Build the bookstore REST API in Spring Boot (controllers, services, DTOs, validation)",Project,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,"Build (cont.): Build the bookstore REST API in Spring Boot (controllers, services, DTOs, validation)",Project,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,"Test & refactor: Build the bookstore REST API in Spring Boot (controllers, services, DTOs, validation)",Project,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,"Document & review: Build the bookstore REST API in Spring Boot (controllers, services, DTOs, validation)",Project,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Study: Spring bean lifecycle deep dive,Design/Theory,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Practice/apply: Spring bean lifecycle deep dive,Design/Theory,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Weekly review + spaced repetition (Anki); fix gaps,Review,Spring Framework & Boot docs,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Research paper: The Chubby Lock Service for Loosely-Coupled Distributed Systems,Paper,The Chubby Lock Service for Loosely-Coupled Distributed Systems,FALSE
+P2 Backend Fundamentals,Spring Core & Boot,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Chubby Lock Service for Loosely-Coupled Distributed Systems,FALSE
+P2 Backend Fundamentals,Building robust APIs,Validation & global exception handling,Learn,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Add @Valid + a global exception handler,Build,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Read: Spring MVC docs + take notes,Flex,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,DTO mapping & layering,Learn,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Map entities to DTOs cleanly,Build,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Solve 2-3 exercises on Robust APIs,Flex,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,"Pagination, filtering, sorting",Learn,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Implement pagination & filtering,Build,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Review previous day's build; refactor weak spots,Flex,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,AOP & cross-cutting concerns,Learn,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Write a logging aspect,Build,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Make Anki cards for Robust APIs concepts,Flex,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,API security basics,Learn,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Add a basic auth filter,Build,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Gap-fill: revisit your weakest Robust APIs topic,Flex,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Plan & design: Extend the API: full CRUD + validation + pagination + error contract + integration tests,Project,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Build: Extend the API: full CRUD + validation + pagination + error contract + integration tests,Project,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Build (cont.): Extend the API: full CRUD + validation + pagination + error contract + integration tests,Project,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Test & refactor: Extend the API: full CRUD + validation + pagination + error contract + integration tests,Project,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Document & review: Extend the API: full CRUD + validation + pagination + error contract + integration tests,Project,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Study: AOP internals & proxies deep dive,Design/Theory,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Practice/apply: AOP internals & proxies deep dive,Design/Theory,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Weekly review + spaced repetition (Anki); fix gaps,Review,Spring MVC docs,FALSE
+P2 Backend Fundamentals,Building robust APIs,Research paper: Kafka: a Distributed Messaging System for Log Processing,Paper,Kafka: a Distributed Messaging System for Log Processing,FALSE
+P2 Backend Fundamentals,Building robust APIs,Paper notes (summary + 3 takeaways) + plan next week,Paper,Kafka: a Distributed Messaging System for Log Processing,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Unit vs integration testing,Learn,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Unit test service logic,Build,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Read: JUnit 5 & Mockito docs + take notes,Flex,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,JUnit 5 + Mockito,Learn,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Mock dependencies with Mockito,Build,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Solve 2-3 exercises on Testing,Flex,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,@SpringBootTest & test slices,Learn,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Test the web layer (MockMvc),Build,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Review previous day's build; refactor weak spots,Flex,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Testcontainers concept,Learn,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Test the repository layer,Build,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Make Anki cards for Testing concepts,Flex,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,TDD basics,Learn,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Write an end-to-end test,Build,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Gap-fill: revisit your weakest Testing topic,Flex,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,"Plan & design: Achieve strong, CI-ready test coverage on the bookstore API",Project,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,"Build: Achieve strong, CI-ready test coverage on the bookstore API",Project,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,"Build (cont.): Achieve strong, CI-ready test coverage on the bookstore API",Project,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,"Test & refactor: Achieve strong, CI-ready test coverage on the bookstore API",Project,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,"Document & review: Achieve strong, CI-ready test coverage on the bookstore API",Project,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Study: Spring consolidation + testing review,Design/Theory,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Practice/apply: Spring consolidation + testing review,Design/Theory,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Weekly review + spaced repetition (Anki); fix gaps,Review,JUnit 5 & Mockito docs,FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Research paper: Out of the Tar Pit (Moseley & Marks),Paper,Out of the Tar Pit (Moseley & Marks),FALSE
+P2 Backend Fundamentals,Testing & Spring internals,Paper notes (summary + 3 takeaways) + plan next week,Paper,Out of the Tar Pit (Moseley & Marks),FALSE
+P3 Data Layer,SQL deep dive,Relational model & normalization,Learn,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Design a normalized schema,Build,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,"Read: SQL Performance Explained / Use The Index, Luke + take notes",Flex,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Joins in depth,Learn,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Write complex multi-join queries,Build,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Solve 2-3 exercises on SQL,Flex,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,"Indexes: B-tree, composite, covering",Learn,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Add indexes and measure impact,Build,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Review previous day's build; refactor weak spots,Flex,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Query planning & EXPLAIN,Learn,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Read & interpret EXPLAIN plans,Build,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Make Anki cards for SQL concepts,Flex,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Transactions & ACID,Learn,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Demonstrate a transaction rollback,Build,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Gap-fill: revisit your weakest SQL topic,Flex,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Plan & design: Design a normalized e-commerce schema; write & optimize 10 queries,Project,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Build: Design a normalized e-commerce schema; write & optimize 10 queries,Project,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Build (cont.): Design a normalized e-commerce schema; write & optimize 10 queries,Project,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Test & refactor: Design a normalized e-commerce schema; write & optimize 10 queries,Project,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Document & review: Design a normalized e-commerce schema; write & optimize 10 queries,Project,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,"Study: Indexing internals: B+tree, covering indexes",Design/Theory,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,"Practice/apply: Indexing internals: B+tree, covering indexes",Design/Theory,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Weekly review + spaced repetition (Anki); fix gaps,Review,"SQL Performance Explained / Use The Index, Luke",FALSE
+P3 Data Layer,SQL deep dive,Research paper: Bigtable: A Distributed Storage System for Structured Data,Paper,Bigtable: A Distributed Storage System for Structured Data,FALSE
+P3 Data Layer,SQL deep dive,Paper notes (summary + 3 takeaways) + plan next week,Paper,Bigtable: A Distributed Storage System for Structured Data,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,ORM concepts & entity mapping,Learn,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Map entities & relationships,Build,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Read: Hibernate docs / Vlad Mihalcea + take notes,Flex,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Relationships & fetch types,Learn,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Reproduce & fix N+1 with fetch joins,Build,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Solve 2-3 exercises on JPA/Hibernate,Flex,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,The N+1 problem,Learn,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Use @Transactional propagation,Build,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Review previous day's build; refactor weak spots,Flex,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Transaction propagation & isolation,Learn,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Add optimistic locking,Build,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Make Anki cards for JPA/Hibernate concepts,Flex,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,1st/2nd level caching,Learn,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Enable & verify caching,Build,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Gap-fill: revisit your weakest JPA/Hibernate topic,Flex,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Plan & design: Migrate the bookstore to PostgreSQL + JPA; solve N+1; add transactions,Project,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Build: Migrate the bookstore to PostgreSQL + JPA; solve N+1; add transactions,Project,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Build (cont.): Migrate the bookstore to PostgreSQL + JPA; solve N+1; add transactions,Project,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Test & refactor: Migrate the bookstore to PostgreSQL + JPA; solve N+1; add transactions,Project,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Document & review: Migrate the bookstore to PostgreSQL + JPA; solve N+1; add transactions,Project,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Study: SQL isolation levels & anomalies deep dive,Design/Theory,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Practice/apply: SQL isolation levels & anomalies deep dive,Design/Theory,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Weekly review + spaced repetition (Anki); fix gaps,Review,Hibernate docs / Vlad Mihalcea,FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Research paper: A Critique of ANSI SQL Isolation Levels (Berenson et al.),Paper,A Critique of ANSI SQL Isolation Levels (Berenson et al.),FALSE
+P3 Data Layer,JPA / Hibernate & transactions,Paper notes (summary + 3 takeaways) + plan next week,Paper,A Critique of ANSI SQL Isolation Levels (Berenson et al.),FALSE
+P3 Data Layer,NoSQL & Redis,NoSQL types & when to use them,Learn,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,MongoDB CRUD & document modeling,Build,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Read: MongoDB & Redis docs + take notes,Flex,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Document model (MongoDB),Learn,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Model data around queries,Build,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Solve 2-3 exercises on NoSQL & Redis,Flex,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Key-value & Redis data structures,Learn,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Use Redis as a cache,Build,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Review previous day's build; refactor weak spots,Flex,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Caching patterns (cache-aside),Learn,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Implement cache-aside,Build,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Make Anki cards for NoSQL & Redis concepts,Flex,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Modeling for access patterns,Learn,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Configure TTL & eviction,Build,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Gap-fill: revisit your weakest NoSQL & Redis topic,Flex,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Plan & design: Add a Redis cache layer + MongoDB store for a read-heavy feature,Project,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Build: Add a Redis cache layer + MongoDB store for a read-heavy feature,Project,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Build (cont.): Add a Redis cache layer + MongoDB store for a read-heavy feature,Project,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Test & refactor: Add a Redis cache layer + MongoDB store for a read-heavy feature,Project,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Document & review: Add a Redis cache layer + MongoDB store for a read-heavy feature,Project,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Study: CAP theorem & consistency models intro,Design/Theory,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Practice/apply: CAP theorem & consistency models intro,Design/Theory,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Weekly review + spaced repetition (Anki); fix gaps,Review,MongoDB & Redis docs,FALSE
+P3 Data Layer,NoSQL & Redis,Research paper: Cassandra: A Decentralized Structured Storage System,Paper,Cassandra: A Decentralized Structured Storage System,FALSE
+P3 Data Layer,NoSQL & Redis,Paper notes (summary + 3 takeaways) + plan next week,Paper,Cassandra: A Decentralized Structured Storage System,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Connection pooling (HikariCP),Learn,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Tune HikariCP pool settings,Build,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Read: HikariCP & Flyway docs + take notes,Flex,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",DB migrations (Flyway/Liquibase),Learn,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Add versioned Flyway migrations,Build,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Solve 2-3 exercises on Data layer ops,Flex,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Batch processing,Learn,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Implement batch inserts,Build,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Review previous day's build; refactor weak spots,Flex,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Read replicas & routing,Learn,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Simulate read/write split,Build,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Make Anki cards for Data layer ops concepts,Flex,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Query optimization patterns,Learn,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Optimize a slow query,Build,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Gap-fill: revisit your weakest Data layer ops topic,Flex,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Plan & design: Data-layer capstone: pooling + migrations + caching + a load test,Project,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Build: Data-layer capstone: pooling + migrations + caching + a load test,Project,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Build (cont.): Data-layer capstone: pooling + migrations + caching + a load test,Project,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Test & refactor: Data-layer capstone: pooling + migrations + caching + a load test,Project,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Document & review: Data-layer capstone: pooling + migrations + caching + a load test,Project,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Study: Data layer consolidation + query optimization patterns,Design/Theory,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Practice/apply: Data layer consolidation + query optimization patterns,Design/Theory,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Weekly review + spaced repetition (Anki); fix gaps,Review,HikariCP & Flyway docs,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Research paper: Spanner: Google's Globally-Distributed Database,Paper,Spanner: Google's Globally-Distributed Database,FALSE
+P3 Data Layer,"Pooling, migrations & data consolidation",Paper notes (summary + 3 takeaways) + plan next week,Paper,Spanner: Google's Globally-Distributed Database,FALSE
+P4 System Design,Scalability fundamentals,Vertical vs horizontal scaling,Learn,Designing Data-Intensive Applications ch.1 (Kleppmann),TRUE
+P4 System Design,Scalability fundamentals,Do capacity-estimation drills,Build,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Read: Designing Data-Intensive Applications ch.1 (Kleppmann) + take notes,Flex,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Latency vs throughput(efficiency),Learn,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Design a stateless service,Build,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Solve 2-3 exercises on Scalability,Flex,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Load balancing algorithms,Learn,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Reason through an LB setup,Build,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Review previous day's build; refactor weak spots,Flex,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Stateless service design,Learn,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Sketch a scaling plan,Build,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Make Anki cards for Scalability concepts,Flex,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Back-of-envelope estimation,Learn,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Practice napkin math,Build,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Gap-fill: revisit your weakest Scalability topic,Flex,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Plan & design: System design write-up: a URL shortener (full document),Project,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Build: System design write-up: a URL shortener (full document),Project,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Build (cont.): System design write-up: a URL shortener (full document),Project,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Test & refactor: System design write-up: a URL shortener (full document),Project,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Document & review: System design write-up: a URL shortener (full document),Project,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Study: Latency numbers every engineer should know,Design/Theory,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Practice/apply: Latency numbers every engineer should know,Design/Theory,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,Weekly review + spaced repetition (Anki); fix gaps,Review,Designing Data-Intensive Applications ch.1 (Kleppmann),FALSE
+P4 System Design,Scalability fundamentals,"Research paper: Harvest, Yield, and Scalable Tolerant Systems (Fox & Brewer)",Paper,"Harvest, Yield, and Scalable Tolerant Systems (Fox & Brewer)",FALSE
+P4 System Design,Scalability fundamentals,Paper notes (summary + 3 takeaways) + plan next week,Paper,"Harvest, Yield, and Scalable Tolerant Systems (Fox & Brewer)",FALSE
+P4 System Design,"Caching, CDN & partitioning",Caching layers & strategies,Learn,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Design a multi-layer cache strategy,Build,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Read: Designing Data-Intensive Applications ch.6 + take notes,Flex,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Cache invalidation & staleness,Learn,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Implement consistent hashing,Build,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Solve 2-3 exercises on Caching & sharding,Flex,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",CDNs,Learn,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Design a sharding scheme,Build,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Review previous day's build; refactor weak spots,Flex,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Sharding & partitioning,Learn,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Mitigate hotspots,Build,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Make Anki cards for Caching & sharding concepts,Flex,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Consistent hashing,Learn,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Choose an eviction policy,Build,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Gap-fill: revisit your weakest Caching & sharding topic,Flex,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Plan & design: System design write-up: a news feed / timeline,Project,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Build: System design write-up: a news feed / timeline,Project,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Build (cont.): System design write-up: a news feed / timeline,Project,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Test & refactor: System design write-up: a news feed / timeline,Project,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Document & review: System design write-up: a news feed / timeline,Project,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Study: Consistent hashing deep dive,Design/Theory,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Practice/apply: Consistent hashing deep dive,Design/Theory,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Weekly review + spaced repetition (Anki); fix gaps,Review,Designing Data-Intensive Applications ch.6,FALSE
+P4 System Design,"Caching, CDN & partitioning",Research paper: Consistent Hashing and Random Trees (Karger et al.),Paper,Consistent Hashing and Random Trees (Karger et al.),FALSE
+P4 System Design,"Caching, CDN & partitioning",Paper notes (summary + 3 takeaways) + plan next week,Paper,Consistent Hashing and Random Trees (Karger et al.),FALSE
+P4 System Design,"Replication, consistency & CAP","Replication: leader/follower, multi-leader",Learn,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Analyze replication trade-offs,Build,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Read: Designing Data-Intensive Applications ch.5 + take notes,Flex,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",CAP & PACELC,Learn,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Work out quorum math,Build,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Solve 2-3 exercises on Replication & CAP,Flex,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Consistency models,Learn,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Design for a target consistency level,Build,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Review previous day's build; refactor weak spots,Flex,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Quorums (R+W>N),Learn,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Design conflict resolution,Build,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Make Anki cards for Replication & CAP concepts,Flex,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Conflict resolution,Learn,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Design a failover plan,Build,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Gap-fill: revisit your weakest Replication & CAP topic,Flex,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Plan & design: System design write-up: a distributed key-value store,Project,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Build: System design write-up: a distributed key-value store,Project,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Build (cont.): System design write-up: a distributed key-value store,Project,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Test & refactor: System design write-up: a distributed key-value store,Project,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Document & review: System design write-up: a distributed key-value store,Project,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Study: CAP / PACELC nuance,Design/Theory,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Practice/apply: CAP / PACELC nuance,Design/Theory,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Weekly review + spaced repetition (Anki); fix gaps,Review,Designing Data-Intensive Applications ch.5,FALSE
+P4 System Design,"Replication, consistency & CAP",Research paper: CAP Twelve Years Later: How the 'Rules' Have Changed (Brewer),Paper,CAP Twelve Years Later: How the 'Rules' Have Changed (Brewer),FALSE
+P4 System Design,"Replication, consistency & CAP",Paper notes (summary + 3 takeaways) + plan next week,Paper,CAP Twelve Years Later: How the 'Rules' Have Changed (Brewer),FALSE
+P4 System Design,"Messaging, async & consolidation",Message queues vs streams,Learn,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Write a Kafka producer & consumer,Build,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Read: Kafka docs + DDIA ch.11 + take notes,Flex,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Kafka fundamentals,Learn,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Design an event flow,Build,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Solve 2-3 exercises on Messaging,Flex,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Delivery guarantees (at-least/at-most/exactly-once),Learn,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Reason about exactly-once,Build,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Review previous day's build; refactor weak spots,Flex,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Idempotency & deduplication,Learn,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Implement the outbox pattern,Build,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Make Anki cards for Messaging concepts,Flex,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Event-driven architecture,Learn,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Design retry + dead-letter queue,Build,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Gap-fill: revisit your weakest Messaging topic,Flex,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Plan & design: System design write-up: rate limiter + messaging-based notifications,Project,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Build: System design write-up: rate limiter + messaging-based notifications,Project,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Build (cont.): System design write-up: rate limiter + messaging-based notifications,Project,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Test & refactor: System design write-up: rate limiter + messaging-based notifications,Project,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Document & review: System design write-up: rate limiter + messaging-based notifications,Project,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Study: System design fundamentals consolidation + mock,Design/Theory,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Practice/apply: System design fundamentals consolidation + mock,Design/Theory,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Weekly review + spaced repetition (Anki); fix gaps,Review,Kafka docs + DDIA ch.11,FALSE
+P4 System Design,"Messaging, async & consolidation",Research paper: The Log: What every software engineer should know (Kreps),Paper,The Log: What every software engineer should know (Kreps),FALSE
+P4 System Design,"Messaging, async & consolidation",Paper notes (summary + 3 takeaways) + plan next week,Paper,The Log: What every software engineer should know (Kreps),FALSE
+P5 Distributed Systems,Microservices architecture,Monolith vs microservices trade-offs,Learn,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Decompose a monolith on paper,Build,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Read: Building Microservices (Newman) + take notes,Flex,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Service boundaries & DDD,Learn,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Define bounded contexts,Build,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Solve 2-3 exercises on Microservices,Flex,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Sync vs async communication,Learn,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Wire REST + async between 2 services,Build,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Review previous day's build; refactor weak spots,Flex,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,API gateway,Learn,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Configure gateway routing,Build,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Make Anki cards for Microservices concepts,Flex,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Service discovery,Learn,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Set up service discovery (concept),Build,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Gap-fill: revisit your weakest Microservices topic,Flex,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Plan & design: Build two Spring Boot microservices communicating via REST + Kafka,Project,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Build: Build two Spring Boot microservices communicating via REST + Kafka,Project,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Build (cont.): Build two Spring Boot microservices communicating via REST + Kafka,Project,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Test & refactor: Build two Spring Boot microservices communicating via REST + Kafka,Project,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Document & review: Build two Spring Boot microservices communicating via REST + Kafka,Project,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Study: DDD tactical patterns,Design/Theory,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Practice/apply: DDD tactical patterns,Design/Theory,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Weekly review + spaced repetition (Anki); fix gaps,Review,Building Microservices (Newman),FALSE
+P5 Distributed Systems,Microservices architecture,Research paper: Microservices (Fowler & Lewis) + patterns notes,Paper,Microservices (Fowler & Lewis) + patterns notes,FALSE
+P5 Distributed Systems,Microservices architecture,Paper notes (summary + 3 takeaways) + plan next week,Paper,Microservices (Fowler & Lewis) + patterns notes,FALSE
+P5 Distributed Systems,Resilience & distributed data,"Timeouts, retries, exponential backoff",Learn,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Add resilience4j,Build,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Read: Microservices Patterns (Richardson) + take notes,Flex,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Circuit breaker & bulkhead,Learn,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Configure a circuit breaker,Build,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Solve 2-3 exercises on Resilience & Saga,Flex,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Distributed transactions problem,Learn,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Implement a choreography saga,Build,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Review previous day's build; refactor weak spots,Flex,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Saga pattern,Learn,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Make endpoints idempotent,Build,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Make Anki cards for Resilience & Saga concepts,Flex,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Idempotency keys,Learn,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Write a compensating transaction,Build,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Gap-fill: revisit your weakest Resilience & Saga topic,Flex,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Plan & design: Add resilience + a saga to the two-service system,Project,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Build: Add resilience + a saga to the two-service system,Project,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Build (cont.): Add resilience + a saga to the two-service system,Project,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Test & refactor: Add resilience + a saga to the two-service system,Project,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Document & review: Add resilience + a saga to the two-service system,Project,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Study: 2PC vs Saga trade-offs,Design/Theory,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Practice/apply: 2PC vs Saga trade-offs,Design/Theory,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,Weekly review + spaced repetition (Anki); fix gaps,Review,Microservices Patterns (Richardson),FALSE
+P5 Distributed Systems,Resilience & distributed data,"Research paper: Sagas (Garcia-Molina & Salem, 1987)",Paper,"Sagas (Garcia-Molina & Salem, 1987)",FALSE
+P5 Distributed Systems,Resilience & distributed data,Paper notes (summary + 3 takeaways) + plan next week,Paper,"Sagas (Garcia-Molina & Salem, 1987)",FALSE
+P5 Distributed Systems,Consensus & coordination,The consensus problem,Learn,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Trace Raft state transitions,Build,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Read: Raft paper + MIT 6.824 notes + take notes,Flex,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Paxos intuition,Learn,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Reason through leader election,Build,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Solve 2-3 exercises on Consensus,Flex,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,"Raft (leader election, log replication)",Learn,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Use a distributed lock,Build,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Review previous day's build; refactor weak spots,Flex,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Distributed locks (ZooKeeper/etcd),Learn,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Walk a coordination scenario,Build,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Make Anki cards for Consensus concepts,Flex,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Failure & partition reasoning,Learn,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Reason about split-brain,Build,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Gap-fill: revisit your weakest Consensus topic,Flex,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Plan & design: System design write-up: a distributed job scheduler (with coordination),Project,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Build: System design write-up: a distributed job scheduler (with coordination),Project,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Build (cont.): System design write-up: a distributed job scheduler (with coordination),Project,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Test & refactor: System design write-up: a distributed job scheduler (with coordination),Project,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Document & review: System design write-up: a distributed job scheduler (with coordination),Project,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Study: Paxos vs Raft comparison,Design/Theory,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Practice/apply: Paxos vs Raft comparison,Design/Theory,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,Weekly review + spaced repetition (Anki); fix gaps,Review,Raft paper + MIT 6.824 notes,FALSE
+P5 Distributed Systems,Consensus & coordination,"Research paper: In Search of an Understandable Consensus Algorithm (Raft, Ongaro & Ousterhout)",Paper,"In Search of an Understandable Consensus Algorithm (Raft, Ongaro & Ousterhout)",FALSE
+P5 Distributed Systems,Consensus & coordination,Paper notes (summary + 3 takeaways) + plan next week,Paper,"In Search of an Understandable Consensus Algorithm (Raft, Ongaro & Ousterhout)",FALSE
+P5 Distributed Systems,Observability & consolidation,Structured logging,Learn,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Add structured logging,Build,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Read: Google SRE Book + take notes,Flex,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Metrics: RED & USE methods,Learn,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Expose Prometheus metrics,Build,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Solve 2-3 exercises on Observability,Flex,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Distributed tracing,Learn,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Add tracing with correlation IDs,Build,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Review previous day's build; refactor weak spots,Flex,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Health checks & readiness,Learn,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Implement health/readiness probes,Build,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Make Anki cards for Observability concepts,Flex,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,SLI/SLO/alerting,Learn,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Design a dashboard,Build,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Gap-fill: revisit your weakest Observability topic,Flex,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Plan & design: Add a full observability stack (logs/metrics/traces) to the microservices,Project,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Build: Add a full observability stack (logs/metrics/traces) to the microservices,Project,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Build (cont.): Add a full observability stack (logs/metrics/traces) to the microservices,Project,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Test & refactor: Add a full observability stack (logs/metrics/traces) to the microservices,Project,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Document & review: Add a full observability stack (logs/metrics/traces) to the microservices,Project,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Study: Distributed systems consolidation + mock interview,Design/Theory,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Practice/apply: Distributed systems consolidation + mock interview,Design/Theory,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,Weekly review + spaced repetition (Anki); fix gaps,Review,Google SRE Book,FALSE
+P5 Distributed Systems,Observability & consolidation,"Research paper: Dapper, a Large-Scale Distributed Systems Tracing Infrastructure",Paper,"Dapper, a Large-Scale Distributed Systems Tracing Infrastructure",FALSE
+P5 Distributed Systems,Observability & consolidation,Paper notes (summary + 3 takeaways) + plan next week,Paper,"Dapper, a Large-Scale Distributed Systems Tracing Infrastructure",FALSE
+P6 Production Eng,Containers & orchestration,Docker fundamentals: images & layers,Learn,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Dockerize a service,Build,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Read: Docker & Kubernetes docs + take notes,Flex,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Dockerfile best practices,Learn,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Write a multi-stage build,Build,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Solve 2-3 exercises on Docker & K8s,Flex,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Kubernetes core objects (pod/deploy/service),Learn,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Compose a local multi-service stack,Build,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Review previous day's build; refactor weak spots,Flex,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Config maps & secrets,Learn,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Write k8s manifests,Build,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Make Anki cards for Docker & K8s concepts,Flex,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Networking basics in k8s,Learn,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Deploy to local k8s (kind/minikube),Build,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Gap-fill: revisit your weakest Docker & K8s topic,Flex,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Plan & design: Containerize the full system + docker-compose + basic k8s deploy,Project,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Build: Containerize the full system + docker-compose + basic k8s deploy,Project,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Build (cont.): Containerize the full system + docker-compose + basic k8s deploy,Project,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Test & refactor: Containerize the full system + docker-compose + basic k8s deploy,Project,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Document & review: Containerize the full system + docker-compose + basic k8s deploy,Project,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Study: Kubernetes networking & scheduling basics,Design/Theory,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Practice/apply: Kubernetes networking & scheduling basics,Design/Theory,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,Weekly review + spaced repetition (Anki); fix gaps,Review,Docker & Kubernetes docs,FALSE
+P6 Production Eng,Containers & orchestration,"Research paper: Borg, Omega, and Kubernetes (Burns et al.)",Paper,"Borg, Omega, and Kubernetes (Burns et al.)",FALSE
+P6 Production Eng,Containers & orchestration,Paper notes (summary + 3 takeaways) + plan next week,Paper,"Borg, Omega, and Kubernetes (Burns et al.)",FALSE
+P6 Production Eng,CI/CD & DevOps,CI/CD pipeline concepts,Learn,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Create a GitHub Actions pipeline,Build,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Read: Accelerate (Forsgren et al.) + take notes,Flex,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Build & test automation,Learn,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Add build + test gates,Build,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Solve 2-3 exercises on CI/CD,Flex,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,"Deployment strategies: blue-green, canary, rolling",Learn,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Add a dockerize + deploy step,Build,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Review previous day's build; refactor weak spots,Flex,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Infrastructure as Code intro,Learn,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Reason through a canary release,Build,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Make Anki cards for CI/CD concepts,Flex,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Release management,Learn,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Externalize environment config,Build,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Gap-fill: revisit your weakest CI/CD topic,Flex,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Plan & design: Build a full CI/CD pipeline (build -> test -> image -> deploy),Project,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Build: Build a full CI/CD pipeline (build -> test -> image -> deploy),Project,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Build (cont.): Build a full CI/CD pipeline (build -> test -> image -> deploy),Project,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Test & refactor: Build a full CI/CD pipeline (build -> test -> image -> deploy),Project,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Document & review: Build a full CI/CD pipeline (build -> test -> image -> deploy),Project,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,"Study: Deployment strategies: blue-green, canary, rolling",Design/Theory,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,"Practice/apply: Deployment strategies: blue-green, canary, rolling",Design/Theory,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Weekly review + spaced repetition (Anki); fix gaps,Review,Accelerate (Forsgren et al.),FALSE
+P6 Production Eng,CI/CD & DevOps,Research paper: Accelerate: key findings on delivery performance,Paper,Accelerate: key findings on delivery performance,FALSE
+P6 Production Eng,CI/CD & DevOps,Paper notes (summary + 3 takeaways) + plan next week,Paper,Accelerate: key findings on delivery performance,FALSE
+P6 Production Eng,Security,Authentication vs authorization,Learn,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Implement JWT authentication,Build,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Read: OWASP Top 10 + OAuth2 RFC 6749 + take notes,Flex,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,OAuth2 & OpenID Connect,Learn,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Add role-based access control,Build,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Solve 2-3 exercises on Security,Flex,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,JWT structure & pitfalls,Learn,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Wire an OAuth2 flow,Build,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Review previous day's build; refactor weak spots,Flex,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,OWASP Top 10,Learn,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Fix common OWASP vulnerabilities,Build,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Make Anki cards for Security concepts,Flex,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Secrets management & encryption,Learn,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Secure configuration & secrets,Build,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Gap-fill: revisit your weakest Security topic,Flex,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Plan & design: Add OAuth2/JWT + RBAC to the system; run a security review,Project,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Build: Add OAuth2/JWT + RBAC to the system; run a security review,Project,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Build (cont.): Add OAuth2/JWT + RBAC to the system; run a security review,Project,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Test & refactor: Add OAuth2/JWT + RBAC to the system; run a security review,Project,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Document & review: Add OAuth2/JWT + RBAC to the system; run a security review,Project,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,"Study: TLS, hashing, encryption basics",Design/Theory,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,"Practice/apply: TLS, hashing, encryption basics",Design/Theory,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Weekly review + spaced repetition (Anki); fix gaps,Review,OWASP Top 10 + OAuth2 RFC 6749,FALSE
+P6 Production Eng,Security,Research paper: OAuth 2.0 (RFC 6749) key sections,Paper,OAuth 2.0 (RFC 6749) key sections,FALSE
+P6 Production Eng,Security,Paper notes (summary + 3 takeaways) + plan next week,Paper,OAuth 2.0 (RFC 6749) key sections,FALSE
+P6 Production Eng,Performance & reliability,Profiling techniques,Learn,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Profile the application,Build,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Read: Java Performance (Oaks) + take notes,Flex,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,JVM & GC tuning,Learn,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Tune GC settings,Build,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Solve 2-3 exercises on Performance,Flex,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Load testing methodology,Learn,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Run a load test (Gatling/JMeter),Build,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Review previous day's build; refactor weak spots,Flex,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Capacity planning,Learn,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Find & fix a bottleneck,Build,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Make Anki cards for Performance concepts,Flex,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Bottleneck analysis,Learn,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Produce a capacity plan,Build,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Gap-fill: revisit your weakest Performance topic,Flex,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Plan & design: Load test + optimize the system end-to-end; write a performance report,Project,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Build: Load test + optimize the system end-to-end; write a performance report,Project,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Build (cont.): Load test + optimize the system end-to-end; write a performance report,Project,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Test & refactor: Load test + optimize the system end-to-end; write a performance report,Project,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Document & review: Load test + optimize the system end-to-end; write a performance report,Project,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Study: JVM GC internals & tuning deep dive,Design/Theory,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Practice/apply: JVM GC internals & tuning deep dive,Design/Theory,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Weekly review + spaced repetition (Anki); fix gaps,Review,Java Performance (Oaks),FALSE
+P6 Production Eng,Performance & reliability,Research paper: The Tail at Scale (Dean & Barroso),Paper,The Tail at Scale (Dean & Barroso),FALSE
+P6 Production Eng,Performance & reliability,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Tail at Scale (Dean & Barroso),FALSE
+P6 Capstone,Capstone build,Architecture review & trade-off analysis,Learn,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Capstone increment: core feature,Build,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Read: Your own architecture decision records (ADRs) + take notes,Flex,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Scalability & reliability plan,Learn,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Capstone increment: persistence & caching,Build,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Solve 2-3 exercises on Capstone,Flex,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Documentation & ADRs,Learn,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Capstone increment: async/messaging,Build,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Review previous day's build; refactor weak spots,Flex,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Threat & failure-mode review,Learn,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Capstone increment: resilience,Build,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Make Anki cards for Capstone concepts,Flex,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Cost/complexity trade-offs,Learn,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Capstone increment: observability,Build,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Gap-fill: revisit your weakest Capstone topic,Flex,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Plan & design: Capstone: build a production-grade backend system of your choice (full day),Project,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Build: Capstone: build a production-grade backend system of your choice (full day),Project,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Build (cont.): Capstone: build a production-grade backend system of your choice (full day),Project,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Test & refactor: Capstone: build a production-grade backend system of your choice (full day),Project,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Document & review: Capstone: build a production-grade backend system of your choice (full day),Project,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,"Study: Capstone: finalize, document, architecture diagrams",Design/Theory,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,"Practice/apply: Capstone: finalize, document, architecture diagrams",Design/Theory,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Weekly review + spaced repetition (Anki); fix gaps,Review,Your own architecture decision records (ADRs),FALSE
+P6 Capstone,Capstone build,Research paper: A Note on Distributed Computing (Fallacies) (Waldo et al.),Paper,A Note on Distributed Computing (Fallacies) (Waldo et al.),FALSE
+P6 Capstone,Capstone build,Paper notes (summary + 3 takeaways) + plan next week,Paper,A Note on Distributed Computing (Fallacies) (Waldo et al.),FALSE
+P6 Capstone,Interview prep & consolidation,System design interview framework,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Solve DS&A problems,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Read: System Design Interview (Alex Xu) + take notes,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Explaining trade-offs clearly,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Run a system design drill,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Solve 2-3 exercises on Interview prep,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,DS&A refresh,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Explain a past design aloud,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Review previous day's build; refactor weak spots,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Behavioral / leadership stories,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Whiteboard a design,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Make Anki cards for Interview prep concepts,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Portfolio & narrative,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Polish the portfolio repo,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Gap-fill: revisit your weakest Interview prep topic,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Plan & design: Full mock system design interviews (2-3) + self-review,Project,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Build: Full mock system design interviews (2-3) + self-review,Project,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Build (cont.): Full mock system design interviews (2-3) + self-review,Project,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Test & refactor: Full mock system design interviews (2-3) + self-review,Project,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Document & review: Full mock system design interviews (2-3) + self-review,Project,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Study: Final consolidation + a roadmap for continued growth,Design/Theory,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Practice/apply: Final consolidation + a roadmap for continued growth,Design/Theory,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Weekly review + spaced repetition (Anki); fix gaps,Review,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Research paper: The Fallacies of Distributed Computing Explained (Rotem-Gal-Oz),Paper,The Fallacies of Distributed Computing Explained (Rotem-Gal-Oz),FALSE
+P6 Capstone,Interview prep & consolidation,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Fallacies of Distributed Computing Explained (Rotem-Gal-Oz),FALSE
+P6 Capstone,Interview prep & consolidation,System design interview framework,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Solve DS&A problems,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Read: System Design Interview (Alex Xu) + take notes,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Explaining trade-offs clearly,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Run a system design drill,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Solve 2-3 exercises on Interview prep,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,DS&A refresh,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Explain a past design aloud,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Review previous day's build; refactor weak spots,Flex,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Behavioral / leadership stories,Learn,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Whiteboard a design,Build,System Design Interview (Alex Xu),FALSE
+P6 Capstone,Interview prep & consolidation,Make Anki cards for Interview prep concepts,Flex,System Design Interview (Alex Xu),FALSE
