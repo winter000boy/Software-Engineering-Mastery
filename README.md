@@ -1,5 +1,26 @@
 # Software Engineering Mastery
 
+> A structured, end-to-end learning journey from **Java fundamentals** to **production-grade distributed systems** — notes, exercises, projects, papers, and reviews tracked in one place.
+
+---
+
+<!-- REPOSITORY METADATA: update repository settings using these values or keep this block in README for discoverability -->
+
+| Field | Value |
+|-------|-------|
+| Repository | `winter000boy/Software-Engineering-Mastery` |
+| Repo ID | `1338469511` |
+| Short description (for GitHub "Description") | A structured, end-to-end learning roadmap from Java fundamentals through production-grade distributed systems — notes, exercises, and projects. |
+| Primary language | Java |
+| Topics (suggested) | java, backend, systems-design, distributed-systems, learning-path, roadmap |
+| License | (none included) — add a LICENSE file (MIT recommended) |
+
+Suggested topics to add in repository settings (comma-separated): java, backend, systems-design, distributed-systems, learning-path, roadmap
+
+Suggested description to paste into GitHub repository settings (short): "A structured, end-to-end learning roadmap from Java fundamentals through production-grade distributed systems — notes, exercises, and projects."
+
+---
+
 A structured, end-to-end learning journey from **Java fundamentals** to **production-grade distributed systems** — notes, exercises, projects, papers, and reviews tracked in one place.
 
 > **Master roadmap:** [Roadmap.csv](Roadmap.csv) — the single source of truth for every task, phase, and completion status.
