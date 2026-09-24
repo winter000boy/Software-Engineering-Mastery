@@ -126,7 +126,7 @@ Each focus block ends with a **capstone project** for that topic (e.g. CLI inven
 
 **Primary resources:** *Effective Java* (Bloch), *Java Concurrency in Practice*, Java docs
 
-**Notes so far:** [rows #001, #004, #012, #013 in INDEX.md](INDEX.md) · **Problems so far:** [rows #006–#011 in PROBLEMS-INDEX.md](PROBLEMS-INDEX.md)
+**Covered so far: rows 1–30.** Notes: [INDEX.md](INDEX.md) · Problems & solutions: [PROBLEMS-INDEX.md](PROBLEMS-INDEX.md)
 
 ---
 

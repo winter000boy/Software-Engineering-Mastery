@@ -1,34 +1,34 @@
 sr. no,Phase,Focus Area,Task,Type,Resource / Paper,Status
 1,P1 Java Core,Java runtime & OOP foundations,"JVM/JRE/JDK, bytecode, how Java runs",Learn,Effective Java (Bloch),TRUE
 2,P1 Java Core,Java runtime & OOP foundations,"Set up JDK + build tool (Maven/Gradle), Hello World",Build,Effective Java (Bloch),TRUE
-3,P1 Java Core,Java runtime & OOP foundations,Read: Effective Java (Bloch) + take notes,Flex,Effective Java (Bloch),FALSE
+3,P1 Java Core,Java runtime & OOP foundations,Read: Effective Java (Bloch) + take notes,Flex,Effective Java (Bloch),TRUE
 4,P1 Java Core,Java runtime & OOP foundations,"Memory areas: heap, stack, metaspace, class loading",Learn,Effective Java (Bloch),TRUE
 5,P1 Java Core,Java runtime & OOP foundations,Model a Library domain with classes & interfaces,Build,Effective Java (Bloch),TRUE
-6,P1 Java Core,Java runtime & OOP foundations,Solve 2-3 exercises on JVM & OOP,Flex,Effective Java (Bloch),FALSE
-7,P1 Java Core,Java runtime & OOP foundations,"Plan & design: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
-8,P1 Java Core,Java runtime & OOP foundations,"Build: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
-9,P1 Java Core,Java runtime & OOP foundations,"Build (cont.): CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
-10,P1 Java Core,Java runtime & OOP foundations,"Test & refactor: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
-11,P1 Java Core,Java runtime & OOP foundations,"Document & review: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),FALSE
-12,P1 Java Core,Java runtime & OOP foundations,Study: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),FALSE
-13,P1 Java Core,Java runtime & OOP foundations,Practice/apply: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),FALSE
-14,P1 Java Core,Java runtime & OOP foundations,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch),FALSE
-15,P1 Java Core,Java runtime & OOP foundations,Research paper: On Designing and Deploying Internet-Scale Services (J. Hamilton),Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),FALSE
-16,P1 Java Core,Java runtime & OOP foundations,Paper notes (summary + 3 takeaways) + plan next week,Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),FALSE
-17,P1 Java Core,Collections & Generics,List/Set/Map internals & when to use each,Learn,Effective Java (Bloch) + Java docs,FALSE
-18,P1 Java Core,Collections & Generics,Benchmark ArrayList vs LinkedList operations,Build,Effective Java (Bloch) + Java docs,FALSE
-19,P1 Java Core,Collections & Generics,Read: Effective Java (Bloch) + Java docs + take notes,Flex,Effective Java (Bloch) + Java docs,FALSE
-20,P1 Java Core,Collections & Generics,"ArrayList vs LinkedList; HashMap internals (buckets, resize, treeify)",Learn,Effective Java (Bloch) + Java docs,FALSE
-21,P1 Java Core,Collections & Generics,Implement your own dynamic array,Build,Effective Java (Bloch) + Java docs,FALSE
-22,P1 Java Core,Collections & Generics,Solve 2-3 exercises on Collections,Flex,Effective Java (Bloch) + Java docs,FALSE
-23,P1 Java Core,Collections & Generics,TreeMap/LinkedHashMap; iteration order,Learn,Effective Java (Bloch) + Java docs,FALSE
-24,P1 Java Core,Collections & Generics,Implement a simplified HashMap,Build,Effective Java (Bloch) + Java docs,FALSE
-25,P1 Java Core,Collections & Generics,Review previous day's build; refactor weak spots,Flex,Effective Java (Bloch) + Java docs,FALSE
-26,P1 Java Core,Collections & Generics,"Generics, bounded types, wildcards (PECS)",Learn,Effective Java (Bloch) + Java docs,FALSE
-27,P1 Java Core,Collections & Generics,Sort objects with custom comparators,Build,Effective Java (Bloch) + Java docs,FALSE
-28,P1 Java Core,Collections & Generics,Make Anki cards for Collections concepts,Flex,Effective Java (Bloch) + Java docs,FALSE
-29,P1 Java Core,Collections & Generics,Comparable vs Comparator,Learn,Effective Java (Bloch) + Java docs,FALSE
-30,P1 Java Core,Collections & Generics,Write a generic container class,Build,Effective Java (Bloch) + Java docs,FALSE
+6,P1 Java Core,Java runtime & OOP foundations,Solve 2-3 exercises on JVM & OOP,Flex,Effective Java (Bloch),TRUE
+7,P1 Java Core,Java runtime & OOP foundations,"Plan & design: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),TRUE
+8,P1 Java Core,Java runtime & OOP foundations,"Build: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),TRUE
+9,P1 Java Core,Java runtime & OOP foundations,"Build (cont.): CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),TRUE
+10,P1 Java Core,Java runtime & OOP foundations,"Test & refactor: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),TRUE
+11,P1 Java Core,Java runtime & OOP foundations,"Document & review: CLI inventory system in pure OOP (design, model, in-memory CRUD, tests, refactor)",Project,Effective Java (Bloch),TRUE
+12,P1 Java Core,Java runtime & OOP foundations,Study: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),TRUE
+13,P1 Java Core,Java runtime & OOP foundations,Practice/apply: Java Memory Model overview; stack vs heap,Design/Theory,Effective Java (Bloch),TRUE
+14,P1 Java Core,Java runtime & OOP foundations,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch),TRUE
+15,P1 Java Core,Java runtime & OOP foundations,Research paper: On Designing and Deploying Internet-Scale Services (J. Hamilton),Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),TRUE
+16,P1 Java Core,Java runtime & OOP foundations,Paper notes (summary + 3 takeaways) + plan next week,Paper,On Designing and Deploying Internet-Scale Services (J. Hamilton),TRUE
+17,P1 Java Core,Collections & Generics,List/Set/Map internals & when to use each,Learn,Effective Java (Bloch) + Java docs,TRUE
+18,P1 Java Core,Collections & Generics,Benchmark ArrayList vs LinkedList operations,Build,Effective Java (Bloch) + Java docs,TRUE
+19,P1 Java Core,Collections & Generics,Read: Effective Java (Bloch) + Java docs + take notes,Flex,Effective Java (Bloch) + Java docs,TRUE
+20,P1 Java Core,Collections & Generics,"ArrayList vs LinkedList; HashMap internals (buckets, resize, treeify)",Learn,Effective Java (Bloch) + Java docs,TRUE
+21,P1 Java Core,Collections & Generics,Implement your own dynamic array,Build,Effective Java (Bloch) + Java docs,TRUE
+22,P1 Java Core,Collections & Generics,Solve 2-3 exercises on Collections,Flex,Effective Java (Bloch) + Java docs,TRUE
+23,P1 Java Core,Collections & Generics,TreeMap/LinkedHashMap; iteration order,Learn,Effective Java (Bloch) + Java docs,TRUE
+24,P1 Java Core,Collections & Generics,Implement a simplified HashMap,Build,Effective Java (Bloch) + Java docs,TRUE
+25,P1 Java Core,Collections & Generics,Review previous day's build; refactor weak spots,Flex,Effective Java (Bloch) + Java docs,TRUE
+26,P1 Java Core,Collections & Generics,"Generics, bounded types, wildcards (PECS)",Learn,Effective Java (Bloch) + Java docs,TRUE
+27,P1 Java Core,Collections & Generics,Sort objects with custom comparators,Build,Effective Java (Bloch) + Java docs,TRUE
+28,P1 Java Core,Collections & Generics,Make Anki cards for Collections concepts,Flex,Effective Java (Bloch) + Java docs,TRUE
+29,P1 Java Core,Collections & Generics,Comparable vs Comparator,Learn,Effective Java (Bloch) + Java docs,TRUE
+30,P1 Java Core,Collections & Generics,Write a generic container class,Build,Effective Java (Bloch) + Java docs,TRUE
 31,P1 Java Core,Collections & Generics,Gap-fill: revisit your weakest Collections topic,Flex,Effective Java (Bloch) + Java docs,FALSE
 32,P1 Java Core,Collections & Generics,Plan & design: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
 33,P1 Java Core,Collections & Generics,Build: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE

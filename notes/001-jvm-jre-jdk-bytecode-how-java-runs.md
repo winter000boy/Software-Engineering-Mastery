@@ -313,4 +313,4 @@ javac = compile | java = run | javap = disassemble
 
 ---
 
-**Next note:** #004 — Memory areas (heap, stack, metaspace, class loading)
+**Next note:** #003 — Effective Java reading notes (Ch. 2–4)

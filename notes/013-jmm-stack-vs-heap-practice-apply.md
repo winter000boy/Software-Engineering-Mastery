@@ -503,4 +503,4 @@ Practice pattern:
 
 ---
 
-**You are caught up through CSV row #013** (Practice/apply: Java Memory Model overview; stack vs heap). See `Roadmap.csv` for the next uncovered row.
+**Next note:** #014 — Weekly review + spaced repetition (Anki); fix gaps
