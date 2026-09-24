@@ -1,7 +1,7 @@
-# #004 — Solution: Build — Service & CLI
+# #009 — Solution: Build — Service & CLI
 
 **Date:** 2026-08-18  
-**Problem:** [004-cli-inventory-build-cli-service.md](../problems/004-cli-inventory-build-cli-service.md)
+**Problem:** [009-cli-inventory-build-cli-service.md](../problems/009-cli-inventory-build-cli-service.md)
 
 ---
 

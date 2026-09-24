@@ -1,7 +1,7 @@
-# #006 — Solution: Document & Review
+# #011 — Solution: Document & Review
 
 **Date:** 2026-08-18  
-**Problem:** [006-cli-inventory-document-review.md](../problems/006-cli-inventory-document-review.md)
+**Problem:** [011-cli-inventory-document-review.md](../problems/011-cli-inventory-document-review.md)
 
 ---
 
@@ -150,4 +150,4 @@ Extension points
 
 ## Project status
 
-Phases #002–#006 complete. Linked from [PROBLEMS-INDEX.md](../PROBLEMS-INDEX.md).
+Phases #007–#011 complete. Linked from [PROBLEMS-INDEX.md](../PROBLEMS-INDEX.md).

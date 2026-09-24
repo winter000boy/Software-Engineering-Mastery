@@ -1,7 +1,7 @@
-# #001 — Solution: 3 Exercises on JVM & OOP
+# #006 — Solution: 3 Exercises on JVM & OOP
 
 **Date:** 2026-08-18  
-**Problem:** [001-jvm-oop-three-exercises.md](../problems/001-jvm-oop-three-exercises.md)
+**Problem:** [006-jvm-oop-three-exercises.md](../problems/006-jvm-oop-three-exercises.md)
 
 ---
 

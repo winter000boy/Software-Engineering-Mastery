@@ -175,7 +175,7 @@ What happens internally:
 5. JVM finds `main` method signature: `public static void main(String[] args)`.
 6. Execution begins.
 
-### Phase 3 — Class Loading (summary — deep dive in #002)
+### Phase 3 — Class Loading (summary — deep dive in #004)
 
 Three phases per class: **Loading → Linking → Initialization**
 
@@ -313,4 +313,4 @@ javac = compile | java = run | javap = disassemble
 
 ---
 
-**Next note:** #002 — Memory areas (heap, stack, metaspace, class loading)
+**Next note:** #004 — Memory areas (heap, stack, metaspace, class loading)

@@ -66,7 +66,7 @@ Update `Status` in [Roadmap.csv](Roadmap.csv) (`TRUE` / `FALSE`) as you finish e
 Effective Java/
 ├── README.md              ← you are here (parent overview)
 ├── Roadmap.csv            ← full curriculum (~650 tasks, 6 phases)
-├── INDEX.md               ← study notes index (serial #001, #002, …)
+├── INDEX.md               ← study notes index (serial = Roadmap.csv sr. no)
 ├── PROBLEMS-INDEX.md      ← problems + solutions index
 │
 ├── notes/                 ← concept notes (Learn / Design / Review)
@@ -82,7 +82,7 @@ Effective Java/
 | **Problems** | `problems/` | [PROBLEMS-INDEX.md](PROBLEMS-INDEX.md) | What to solve or build — exercises, projects, acceptance criteria |
 | **Solutions** | `solutions/` | [PROBLEMS-INDEX.md](PROBLEMS-INDEX.md) | Worked answers — code, design docs, refactor logs |
 
-Serial numbers (`001`, `002`, …) are **never reused** across notes and problems.
+Serial numbers match the `sr. no` column in [Roadmap.csv](Roadmap.csv) — e.g. `notes/004-...md` covers CSV row 4. Numbers are **not contiguous**: a file's number is whichever CSV row it covers, so gaps are expected wherever a row hasn't been written up yet. This makes it possible to tell which Roadmap rows are covered just by scanning folder listings.
 
 ---
 
@@ -126,7 +126,7 @@ Each focus block ends with a **capstone project** for that topic (e.g. CLI inven
 
 **Primary resources:** *Effective Java* (Bloch), *Java Concurrency in Practice*, Java docs
 
-**Notes so far:** [001–004 in INDEX.md](INDEX.md) · **Problems so far:** [001–006 in PROBLEMS-INDEX.md](PROBLEMS-INDEX.md)
+**Notes so far:** [rows #001, #004, #012, #013 in INDEX.md](INDEX.md) · **Problems so far:** [rows #006–#011 in PROBLEMS-INDEX.md](PROBLEMS-INDEX.md)
 
 ---
 
@@ -284,7 +284,7 @@ Examples:
 | Note files | `notes/NNN-topic-slug.md` |
 | Problem files | `problems/NNN-topic-slug.md` |
 | Solution files | `solutions/NNN-topic-slug.md` (same `NNN` and slug as problem) |
-| Serial numbers | Monotonic — never reused |
+| Serial numbers | `NNN` = the matching `sr. no` row in `Roadmap.csv` — not contiguous, never reused for a different row |
 | Projects | Plan → Build → Build (cont.) → Test & refactor → Document & review |
 | Roadmap status | `TRUE` = done, `FALSE` = not done |
 

@@ -1,4 +1,4 @@
-# #005 — Test & Refactor: CLI Inventory System
+# #010 — Test & Refactor: CLI Inventory System
 
 **Date:** 2026-08-18  
 **Type:** Project — Phase 4 of 5  
@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-Complete **#004 Build CLI & Service** — working end-to-end CLI.
+Complete **#009 Build CLI & Service** — working end-to-end CLI.
 
 ---
 

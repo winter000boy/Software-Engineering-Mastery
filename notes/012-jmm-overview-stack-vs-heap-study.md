@@ -1,4 +1,4 @@
-# #003 — Java Memory Model Overview & Stack vs Heap (Study)
+# #012 — Java Memory Model Overview & Stack vs Heap (Study)
 
 **Date:** 2026-08-18  
 **Day:** Catch-up Day 3 of 4
@@ -386,4 +386,4 @@ Use AtomicInteger or synchronized for compound ops
 
 ---
 
-**Next note:** #004 — Java Memory Model & stack vs heap (practice/apply)
+**Next note:** #013 — Java Memory Model & stack vs heap (practice/apply)

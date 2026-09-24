@@ -1,4 +1,4 @@
-# #002 — Plan & Design: CLI Inventory System (Pure OOP)
+# #007 — Plan & Design: CLI Inventory System (Pure OOP)
 
 **Date:** 2026-08-18  
 **Type:** Project — Phase 1 of 5  

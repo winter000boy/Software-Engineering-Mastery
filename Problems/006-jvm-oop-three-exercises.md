@@ -1,4 +1,4 @@
-# #001 — Solve 3 Exercises on JVM & OOP
+# #006 — Solve 3 Exercises on JVM & OOP
 
 **Date:** 2026-08-18  
 **Type:** Exercise  

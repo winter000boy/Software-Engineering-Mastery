@@ -1,4 +1,4 @@
-# #004 — Build (cont.): CLI Inventory System — Service & CLI
+# #009 — Build (cont.): CLI Inventory System — Service & CLI
 
 **Date:** 2026-08-18  
 **Type:** Project — Phase 3 of 5  
@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-Complete **#003 Build Core** — domain and repository working.
+Complete **#008 Build Core** — domain and repository working.
 
 ---
 

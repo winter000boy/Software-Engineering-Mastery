@@ -1,4 +1,4 @@
-# #004 — Java Memory Model & Stack vs Heap (Practice / Apply)
+# #013 — Java Memory Model & Stack vs Heap (Practice / Apply)
 
 **Date:** 2026-08-18  
 **Day:** Catch-up Day 4 of 4
@@ -503,4 +503,4 @@ Practice pattern:
 
 ---
 
-**You are caught up through #004.** Next topics will continue at **#005**.
+**You are caught up through CSV row #013** (Practice/apply: Java Memory Model overview; stack vs heap). See `Roadmap.csv` for the next uncovered row.

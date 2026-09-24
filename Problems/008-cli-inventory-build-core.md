@@ -1,4 +1,4 @@
-# #003 — Build: CLI Inventory System — Core Domain & Repository
+# #008 — Build: CLI Inventory System — Core Domain & Repository
 
 **Date:** 2026-08-18  
 **Type:** Project — Phase 2 of 5  
@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-Complete **#002 Plan & Design** (or use the provided design in the solution file).
+Complete **#007 Plan & Design** (or use the provided design in the solution file).
 
 ---
 

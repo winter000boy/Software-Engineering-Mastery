@@ -1,7 +1,7 @@
-# #005 — Solution: Test & Refactor
+# #010 — Solution: Test & Refactor
 
 **Date:** 2026-08-18  
-**Problem:** [005-cli-inventory-test-refactor.md](../problems/005-cli-inventory-test-refactor.md)
+**Problem:** [010-cli-inventory-test-refactor.md](../problems/010-cli-inventory-test-refactor.md)
 
 ---
 

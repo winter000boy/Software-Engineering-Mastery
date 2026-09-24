@@ -1,7 +1,7 @@
-# #003 — Solution: Build Core — Domain & Repository
+# #008 — Solution: Build Core — Domain & Repository
 
 **Date:** 2026-08-18  
-**Problem:** [003-cli-inventory-build-core.md](../problems/003-cli-inventory-build-core.md)
+**Problem:** [008-cli-inventory-build-core.md](../problems/008-cli-inventory-build-core.md)
 
 ---
 

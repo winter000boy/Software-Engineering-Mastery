@@ -1,4 +1,4 @@
-# #006 — Document & Review: CLI Inventory System
+# #011 — Document & Review: CLI Inventory System
 
 **Date:** 2026-08-18  
 **Type:** Project — Phase 5 of 5  
@@ -8,7 +8,7 @@
 
 ## Prerequisites
 
-Complete **#005 Test & Refactor** — tests green, refactors logged.
+Complete **#010 Test & Refactor** — tests green, refactors logged.
 
 ---
 
@@ -90,4 +90,4 @@ Produce a **one-page architecture summary** (can live in README or `ARCHITECTURE
 
 ## Project complete when
 
-All phases #002–#006 acceptance criteria met and linked from `PROBLEMS-INDEX.md`.
+All phases #007–#011 acceptance criteria met and linked from `PROBLEMS-INDEX.md`.

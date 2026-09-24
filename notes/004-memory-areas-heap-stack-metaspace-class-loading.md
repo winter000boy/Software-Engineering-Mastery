@@ -1,4 +1,4 @@
-# #002 — Memory Areas: Heap, Stack, Metaspace & Class Loading
+# #004 — Memory Areas: Heap, Stack, Metaspace & Class Loading
 
 **Date:** 2026-08-18  
 **Day:** Catch-up Day 2 of 4
@@ -393,4 +393,4 @@ Errors:
 
 ---
 
-**Next note:** #003 — Java Memory Model overview; stack vs heap (study)
+**Next note:** #012 — Java Memory Model overview; stack vs heap (study)

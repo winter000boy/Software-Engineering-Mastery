@@ -1,7 +1,7 @@
-# #002 — Solution: Plan & Design — CLI Inventory System
+# #007 — Solution: Plan & Design — CLI Inventory System
 
 **Date:** 2026-08-18  
-**Problem:** [002-cli-inventory-plan-design.md](../problems/002-cli-inventory-plan-design.md)
+**Problem:** [007-cli-inventory-plan-design.md](../problems/007-cli-inventory-plan-design.md)
 
 ---
 

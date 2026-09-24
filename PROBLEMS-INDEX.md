@@ -2,24 +2,24 @@
 
 > **Project home:** [README.md](README.md) · **Study notes:** [INDEX.md](INDEX.md)
 
-| # | Date | Topic | Type | Problem | Solution |
+| # (CSV sr.no) | Date | Topic | Type | Problem | Solution |
 |---|------|-------|------|---------|----------|
-| 001 | 2026-08-18 | Solve 3 Exercises on JVM & OOP | Exercise | [001-jvm-oop-three-exercises.md](problems/001-jvm-oop-three-exercises.md) | [001-jvm-oop-three-exercises.md](solutions/001-jvm-oop-three-exercises.md) |
-| 002 | 2026-08-18 | Plan & Design: CLI Inventory System (Pure OOP) | Project | [002-cli-inventory-plan-design.md](problems/002-cli-inventory-plan-design.md) | [002-cli-inventory-plan-design.md](solutions/002-cli-inventory-plan-design.md) |
-| 003 | 2026-08-18 | Build: CLI Inventory System — Core Domain & Repository | Project | [003-cli-inventory-build-core.md](problems/003-cli-inventory-build-core.md) | [003-cli-inventory-build-core.md](solutions/003-cli-inventory-build-core.md) |
-| 004 | 2026-08-18 | Build (cont.): CLI Inventory System — Service & CLI | Project | [004-cli-inventory-build-cli-service.md](problems/004-cli-inventory-build-cli-service.md) | [004-cli-inventory-build-cli-service.md](solutions/004-cli-inventory-build-cli-service.md) |
-| 005 | 2026-08-18 | Test & Refactor: CLI Inventory System | Project | [005-cli-inventory-test-refactor.md](problems/005-cli-inventory-test-refactor.md) | [005-cli-inventory-test-refactor.md](solutions/005-cli-inventory-test-refactor.md) |
-| 006 | 2026-08-18 | Document & Review: CLI Inventory System | Project | [006-cli-inventory-document-review.md](problems/006-cli-inventory-document-review.md) | [006-cli-inventory-document-review.md](solutions/006-cli-inventory-document-review.md) |
+| 006 | 2026-08-18 | Solve 3 Exercises on JVM & OOP | Exercise | [006-jvm-oop-three-exercises.md](problems/006-jvm-oop-three-exercises.md) | [006-jvm-oop-three-exercises.md](solutions/006-jvm-oop-three-exercises.md) |
+| 007 | 2026-08-18 | Plan & Design: CLI Inventory System (Pure OOP) | Project | [007-cli-inventory-plan-design.md](problems/007-cli-inventory-plan-design.md) | [007-cli-inventory-plan-design.md](solutions/007-cli-inventory-plan-design.md) |
+| 008 | 2026-08-18 | Build: CLI Inventory System — Core Domain & Repository | Project | [008-cli-inventory-build-core.md](problems/008-cli-inventory-build-core.md) | [008-cli-inventory-build-core.md](solutions/008-cli-inventory-build-core.md) |
+| 009 | 2026-08-18 | Build (cont.): CLI Inventory System — Service & CLI | Project | [009-cli-inventory-build-cli-service.md](problems/009-cli-inventory-build-cli-service.md) | [009-cli-inventory-build-cli-service.md](solutions/009-cli-inventory-build-cli-service.md) |
+| 010 | 2026-08-18 | Test & Refactor: CLI Inventory System | Project | [010-cli-inventory-test-refactor.md](problems/010-cli-inventory-test-refactor.md) | [010-cli-inventory-test-refactor.md](solutions/010-cli-inventory-test-refactor.md) |
+| 011 | 2026-08-18 | Document & Review: CLI Inventory System | Project | [011-cli-inventory-document-review.md](problems/011-cli-inventory-document-review.md) | [011-cli-inventory-document-review.md](solutions/011-cli-inventory-document-review.md) |
 
-**Next serial number: 007**
+**Rows covered so far: #006–#011** — see `Roadmap.csv` for every row still not covered.
 
 ---
 
 ## How to use
 
 1. Send me one or more problems each day (exercises, projects, or interview-style tasks).
-2. I create a numbered `.md` file in `problems/` and a matching solution in `solutions/`.
-3. I update this index automatically — serial numbers are **never reused**.
+2. I create a `.md` file in `problems/` numbered after the matching `sr. no` row in [Roadmap.csv](Roadmap.csv), and a matching solution in `solutions/`.
+3. I update this index automatically — serial numbers are **never reused for a different row**, but are **not contiguous** (the number is the CSV row, not creation order).
 
 ## Folder layout
 
@@ -49,14 +49,14 @@ Each solution includes:
 - **Complexity** — time and space (when relevant)
 - **Key takeaways** — condensed bullets for review
 
-## Project series: CLI Inventory (#002–#006)
+## Project series: CLI Inventory (#007–#011)
 
 Five linked phases — work in order:
 
 | Phase | Focus |
 |-------|-------|
-| 002 | Plan & design |
-| 003 | Domain + repository |
-| 004 | Service + CLI |
-| 005 | Tests + refactor |
-| 006 | Document + review |
+| 007 | Plan & design |
+| 008 | Domain + repository |
+| 009 | Service + CLI |
+| 010 | Tests + refactor |
+| 011 | Document + review |
