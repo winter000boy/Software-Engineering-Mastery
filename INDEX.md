@@ -19,8 +19,12 @@
 | 026 | 2026-09-24 | Generics, Bounded Types, Wildcards (PECS) | [026-generics-bounded-types-wildcards-pecs.md](notes/026-generics-bounded-types-wildcards-pecs.md) |
 | 028 | 2026-09-24 | Anki Cards for Collections (82 cards) | [028-anki-cards-collections.md](notes/028-anki-cards-collections.md) |
 | 029 | 2026-09-24 | Comparable vs Comparator | [029-comparable-vs-comparator.md](notes/029-comparable-vs-comparator.md) |
+| 037 | 2026-10-03 | Study: Big-O Complexity Review + Collections Cheat Sheet | [037-big-o-review-collections-cheat-sheet.md](notes/037-big-o-review-collections-cheat-sheet.md) |
+| 038 | 2026-10-03 | Practice: Big-O (exercises + measured doubling experiment) | [038-big-o-practice-apply.md](notes/038-big-o-practice-apply.md) |
+| 039 | 2026-10-03 | Weekly Review + Anki (32 new cards) + Fix Gaps — Week 2 | [039-week2-review-anki-fix-gaps.md](notes/039-week2-review-anki-fix-gaps.md) |
+| 040 | 2026-10-03 | Paper: *The Google File System* (Ghemawat, Gobioff, Leung) | [040-paper-google-file-system.md](notes/040-paper-google-file-system.md) |
 
-**Rows covered so far: #001, #003, #004, #012–#017, #019, #020, #023, #026, #028, #029** — see `Roadmap.csv` for every row still not covered.
+**Rows covered so far: #001, #003, #004, #012–#017, #019, #020, #023, #026, #028, #029, #037–#040** — see `Roadmap.csv` for every row still not covered.
 
 ---
 

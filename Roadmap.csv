@@ -29,16 +29,16 @@ sr. no,Phase,Focus Area,Task,Type,Resource / Paper,Status
 28,P1 Java Core,Collections & Generics,Make Anki cards for Collections concepts,Flex,Effective Java (Bloch) + Java docs,TRUE
 29,P1 Java Core,Collections & Generics,Comparable vs Comparator,Learn,Effective Java (Bloch) + Java docs,TRUE
 30,P1 Java Core,Collections & Generics,Write a generic container class,Build,Effective Java (Bloch) + Java docs,TRUE
-31,P1 Java Core,Collections & Generics,Gap-fill: revisit your weakest Collections topic,Flex,Effective Java (Bloch) + Java docs,FALSE
-32,P1 Java Core,Collections & Generics,Plan & design: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
-33,P1 Java Core,Collections & Generics,Build: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
-34,P1 Java Core,Collections & Generics,Build (cont.): Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
-35,P1 Java Core,Collections & Generics,Test & refactor: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
-36,P1 Java Core,Collections & Generics,Document & review: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,FALSE
-37,P1 Java Core,Collections & Generics,Study: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,FALSE
-38,P1 Java Core,Collections & Generics,Practice/apply: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,FALSE
-39,P1 Java Core,Collections & Generics,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch) + Java docs,FALSE
-40,P1 Java Core,Collections & Generics,Research paper: The Google File System (Ghemawat et al.),Paper,The Google File System (Ghemawat et al.),FALSE
+31,P1 Java Core,Collections & Generics,Gap-fill: revisit your weakest Collections topic,Flex,Effective Java (Bloch) + Java docs,TRUE
+32,P1 Java Core,Collections & Generics,Plan & design: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,TRUE
+33,P1 Java Core,Collections & Generics,Build: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,TRUE
+34,P1 Java Core,Collections & Generics,Build (cont.): Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,TRUE
+35,P1 Java Core,Collections & Generics,Test & refactor: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,TRUE
+36,P1 Java Core,Collections & Generics,Document & review: Build an LRU cache from scratch (LinkedHashMap + manual) with tests & benchmark,Project,Effective Java (Bloch) + Java docs,TRUE
+37,P1 Java Core,Collections & Generics,Study: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,TRUE
+38,P1 Java Core,Collections & Generics,Practice/apply: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,TRUE
+39,P1 Java Core,Collections & Generics,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch) + Java docs,TRUE
+40,P1 Java Core,Collections & Generics,Research paper: The Google File System (Ghemawat et al.),Paper,The Google File System (Ghemawat et al.),TRUE
 41,P1 Java Core,Collections & Generics,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Google File System (Ghemawat et al.),FALSE
 42,P1 Java Core,Concurrency & Multithreading I,"Threads, Runnable, thread lifecycle",Learn,Java Concurrency in Practice (ch.1-4),FALSE
 43,P1 Java Core,Concurrency & Multithreading I,Create & coordinate threads,Build,Java Concurrency in Practice (ch.1-4),FALSE

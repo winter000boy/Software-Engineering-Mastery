@@ -19,8 +19,14 @@
 | 025 | 2026-09-24 | Review & Refactor the HashMap (AbstractMap, measured collisions) | Review | [025-review-refactor-hashmap.md](problems/025-review-refactor-hashmap.md) | [025-review-refactor-hashmap.md](solutions/025-review-refactor-hashmap.md) |
 | 027 | 2026-09-24 | Sort Objects with Custom Comparators | Build | [027-sort-with-custom-comparators.md](problems/027-sort-with-custom-comparators.md) | [027-sort-with-custom-comparators.md](solutions/027-sort-with-custom-comparators.md) |
 | 030 | 2026-09-24 | Generic Container Class: Multiset<E> | Build | [030-generic-container-class.md](problems/030-generic-container-class.md) | [030-generic-container-class.md](solutions/030-generic-container-class.md) |
+| 031 | 2026-10-03 | Gap-Fill: Diagnostic + Drills for Your Weakest Collections Topic | Exercise | [031-gap-fill-weakest-collections-topic.md](problems/031-gap-fill-weakest-collections-topic.md) | [031-gap-fill-weakest-collections-topic.md](solutions/031-gap-fill-weakest-collections-topic.md) |
+| 032 | 2026-10-03 | LRU Cache — Plan & Design | Project | [032-lru-cache-plan-design.md](problems/032-lru-cache-plan-design.md) | [032-lru-cache-plan-design.md](solutions/032-lru-cache-plan-design.md) |
+| 033 | 2026-10-03 | LRU Cache — Build: API + LinkedHashMap Version | Project | [033-lru-cache-build-linkedhashmap.md](problems/033-lru-cache-build-linkedhashmap.md) | [033-lru-cache-build-linkedhashmap.md](solutions/033-lru-cache-build-linkedhashmap.md) |
+| 034 | 2026-10-03 | LRU Cache — Build (cont.): Manual HashMap + Doubly Linked List | Project | [034-lru-cache-build-manual.md](problems/034-lru-cache-build-manual.md) | [034-lru-cache-build-manual.md](solutions/034-lru-cache-build-manual.md) |
+| 035 | 2026-10-03 | LRU Cache — Test & Refactor (differential tests, listener bug, JMH, hit rates) | Project | [035-lru-cache-test-refactor.md](problems/035-lru-cache-test-refactor.md) | [035-lru-cache-test-refactor.md](solutions/035-lru-cache-test-refactor.md) |
+| 036 | 2026-10-03 | LRU Cache — Document & Review | Project | [036-lru-cache-document-review.md](problems/036-lru-cache-document-review.md) | [036-lru-cache-document-review.md](solutions/036-lru-cache-document-review.md) |
 
-**Rows covered so far: #002, #005–#011, #018, #021, #022, #024, #025, #027, #030** — see `Roadmap.csv` for every row still not covered.
+**Rows covered so far: #002, #005–#011, #018, #021, #022, #024, #025, #027, #030–#036** — see `Roadmap.csv` for every row still not covered.
 
 ---
 
@@ -69,3 +75,15 @@ Five linked phases — work in order:
 | 009 | Service + CLI |
 | 010 | Tests + refactor |
 | 011 | Document + review |
+
+## Project series: LRU Cache (#032–#036)
+
+Five linked phases — work in order:
+
+| Phase | Focus |
+|-------|-------|
+| 032 | Plan & design (data structures, API contract, test & benchmark plan) |
+| 033 | API + `LinkedHashMap` implementation + shared contract test suite |
+| 034 | Manual `HashMap` + doubly linked list implementation |
+| 035 | Reference model, differential & concurrency tests, listener-exception bug fix, JMH, hit rates |
+| 036 | README, decisions record, traceability, review, retrospective |
