@@ -23,8 +23,13 @@
 | 038 | 2026-10-03 | Practice: Big-O (exercises + measured doubling experiment) | [038-big-o-practice-apply.md](notes/038-big-o-practice-apply.md) |
 | 039 | 2026-10-03 | Weekly Review + Anki (32 new cards) + Fix Gaps — Week 2 | [039-week2-review-anki-fix-gaps.md](notes/039-week2-review-anki-fix-gaps.md) |
 | 040 | 2026-10-03 | Paper: *The Google File System* (Ghemawat, Gobioff, Leung) | [040-paper-google-file-system.md](notes/040-paper-google-file-system.md) |
+| 041 | 2026-10-12 | GFS Summary + 3 Takeaways + Plan for Week 3 (Concurrency I) | [041-gfs-summary-takeaways-plan-next-week.md](notes/041-gfs-summary-takeaways-plan-next-week.md) |
+| 042 | 2026-10-12 | Threads, Runnable, Thread Lifecycle | [042-threads-runnable-lifecycle.md](notes/042-threads-runnable-lifecycle.md) |
+| 044 | 2026-10-12 | Read: *Java Concurrency in Practice*, Ch. 1–4 | [044-java-concurrency-in-practice-ch1-4.md](notes/044-java-concurrency-in-practice-ch1-4.md) |
+| 045 | 2026-10-12 | `synchronized`, Intrinsic Locks, Monitors | [045-synchronized-intrinsic-locks-monitor.md](notes/045-synchronized-intrinsic-locks-monitor.md) |
+| 048 | 2026-10-12 | `volatile`, Visibility, Happens-Before | [048-volatile-visibility-happens-before.md](notes/048-volatile-visibility-happens-before.md) |
 
-**Rows covered so far: #001, #003, #004, #012–#017, #019, #020, #023, #026, #028, #029, #037–#040** — see `Roadmap.csv` for every row still not covered.
+**Rows covered so far: #001, #003, #004, #012–#017, #019, #020, #023, #026, #028, #029, #037–#042, #044, #045, #048** — see `Roadmap.csv` for every row still not covered.
 
 ---
 

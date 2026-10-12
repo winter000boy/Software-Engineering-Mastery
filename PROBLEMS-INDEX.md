@@ -25,8 +25,13 @@
 | 034 | 2026-10-03 | LRU Cache — Build (cont.): Manual HashMap + Doubly Linked List | Project | [034-lru-cache-build-manual.md](problems/034-lru-cache-build-manual.md) | [034-lru-cache-build-manual.md](solutions/034-lru-cache-build-manual.md) |
 | 035 | 2026-10-03 | LRU Cache — Test & Refactor (differential tests, listener bug, JMH, hit rates) | Project | [035-lru-cache-test-refactor.md](problems/035-lru-cache-test-refactor.md) | [035-lru-cache-test-refactor.md](solutions/035-lru-cache-test-refactor.md) |
 | 036 | 2026-10-03 | LRU Cache — Document & Review | Project | [036-lru-cache-document-review.md](problems/036-lru-cache-document-review.md) | [036-lru-cache-document-review.md](solutions/036-lru-cache-document-review.md) |
+| 043 | 2026-10-12 | Create & Coordinate Threads (partitioning, cancellation, failures) | Build | [043-create-coordinate-threads.md](problems/043-create-coordinate-threads.md) | [043-create-coordinate-threads.md](solutions/043-create-coordinate-threads.md) |
+| 046 | 2026-10-12 | Producer-Consumer with wait/notify (+ measured classic bugs) | Build | [046-producer-consumer-wait-notify.md](problems/046-producer-consumer-wait-notify.md) | [046-producer-consumer-wait-notify.md](solutions/046-producer-consumer-wait-notify.md) |
+| 047 | 2026-10-12 | Concurrency Exercises: Ping-Pong, Round-Robin, Own CountDownLatch | Exercise | [047-concurrency-exercises.md](problems/047-concurrency-exercises.md) | [047-concurrency-exercises.md](solutions/047-concurrency-exercises.md) |
+| 049 | 2026-10-12 | Reproduce, Then Fix, a Race Condition | Build | [049-reproduce-fix-race-condition.md](problems/049-reproduce-fix-race-condition.md) | [049-reproduce-fix-race-condition.md](solutions/049-reproduce-fix-race-condition.md) |
+| 050 | 2026-10-12 | Review & Refactor the Race Fixes (test the tests, contention JMH) | Review | [050-review-refactor-race-fixes.md](problems/050-review-refactor-race-fixes.md) | [050-review-refactor-race-fixes.md](solutions/050-review-refactor-race-fixes.md) |
 
-**Rows covered so far: #002, #005–#011, #018, #021, #022, #024, #025, #027, #030–#036** — see `Roadmap.csv` for every row still not covered.
+**Rows covered so far: #002, #005–#011, #018, #021, #022, #024, #025, #027, #030–#036, #043, #046, #047, #049, #050** — see `Roadmap.csv` for every row still not covered.
 
 ---
 

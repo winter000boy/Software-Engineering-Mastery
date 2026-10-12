@@ -39,16 +39,16 @@ sr. no,Phase,Focus Area,Task,Type,Resource / Paper,Status
 38,P1 Java Core,Collections & Generics,Practice/apply: Big-O complexity review + collections cheat sheet,Design/Theory,Effective Java (Bloch) + Java docs,TRUE
 39,P1 Java Core,Collections & Generics,Weekly review + spaced repetition (Anki); fix gaps,Review,Effective Java (Bloch) + Java docs,TRUE
 40,P1 Java Core,Collections & Generics,Research paper: The Google File System (Ghemawat et al.),Paper,The Google File System (Ghemawat et al.),TRUE
-41,P1 Java Core,Collections & Generics,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Google File System (Ghemawat et al.),FALSE
-42,P1 Java Core,Concurrency & Multithreading I,"Threads, Runnable, thread lifecycle",Learn,Java Concurrency in Practice (ch.1-4),FALSE
-43,P1 Java Core,Concurrency & Multithreading I,Create & coordinate threads,Build,Java Concurrency in Practice (ch.1-4),FALSE
-44,P1 Java Core,Concurrency & Multithreading I,Read: Java Concurrency in Practice (ch.1-4) + take notes,Flex,Java Concurrency in Practice (ch.1-4),FALSE
-45,P1 Java Core,Concurrency & Multithreading I,"synchronized, intrinsic locks, monitor",Learn,Java Concurrency in Practice (ch.1-4),FALSE
-46,P1 Java Core,Concurrency & Multithreading I,Producer-consumer with wait/notify,Build,Java Concurrency in Practice (ch.1-4),FALSE
-47,P1 Java Core,Concurrency & Multithreading I,Solve 2-3 exercises on Concurrency,Flex,Java Concurrency in Practice (ch.1-4),FALSE
-48,P1 Java Core,Concurrency & Multithreading I,"volatile, visibility, happens-before",Learn,Java Concurrency in Practice (ch.1-4),FALSE
-49,P1 Java Core,Concurrency & Multithreading I,Reproduce then fix a race condition,Build,Java Concurrency in Practice (ch.1-4),FALSE
-50,P1 Java Core,Concurrency & Multithreading I,Review previous day's build; refactor weak spots,Flex,Java Concurrency in Practice (ch.1-4),FALSE
+41,P1 Java Core,Collections & Generics,Paper notes (summary + 3 takeaways) + plan next week,Paper,The Google File System (Ghemawat et al.),TRUE
+42,P1 Java Core,Concurrency & Multithreading I,"Threads, Runnable, thread lifecycle",Learn,Java Concurrency in Practice (ch.1-4),TRUE
+43,P1 Java Core,Concurrency & Multithreading I,Create & coordinate threads,Build,Java Concurrency in Practice (ch.1-4),TRUE
+44,P1 Java Core,Concurrency & Multithreading I,Read: Java Concurrency in Practice (ch.1-4) + take notes,Flex,Java Concurrency in Practice (ch.1-4),TRUE
+45,P1 Java Core,Concurrency & Multithreading I,"synchronized, intrinsic locks, monitor",Learn,Java Concurrency in Practice (ch.1-4),TRUE
+46,P1 Java Core,Concurrency & Multithreading I,Producer-consumer with wait/notify,Build,Java Concurrency in Practice (ch.1-4),TRUE
+47,P1 Java Core,Concurrency & Multithreading I,Solve 2-3 exercises on Concurrency,Flex,Java Concurrency in Practice (ch.1-4),TRUE
+48,P1 Java Core,Concurrency & Multithreading I,"volatile, visibility, happens-before",Learn,Java Concurrency in Practice (ch.1-4),TRUE
+49,P1 Java Core,Concurrency & Multithreading I,Reproduce then fix a race condition,Build,Java Concurrency in Practice (ch.1-4),TRUE
+50,P1 Java Core,Concurrency & Multithreading I,Review previous day's build; refactor weak spots,Flex,Java Concurrency in Practice (ch.1-4),TRUE
 51,P1 Java Core,Concurrency & Multithreading I,Race conditions & how they arise,Learn,Java Concurrency in Practice (ch.1-4),FALSE
 52,P1 Java Core,Concurrency & Multithreading I,Fix an unsafe class with synchronization,Build,Java Concurrency in Practice (ch.1-4),FALSE
 53,P1 Java Core,Concurrency & Multithreading I,Make Anki cards for Concurrency concepts,Flex,Java Concurrency in Practice (ch.1-4),FALSE
